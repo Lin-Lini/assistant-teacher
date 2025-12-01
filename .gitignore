@@ -1,0 +1,23 @@
+# модели LLM
+models/
+
+# кэш эмбеддингов
+data/hf-cache/
+
+# датасеты и PDF
+data/dataset/
+*.pdf
+
+# питоновский мусор
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# виртуальные окружения
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
